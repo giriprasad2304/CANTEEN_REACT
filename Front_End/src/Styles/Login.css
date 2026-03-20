@@ -1,0 +1,28 @@
+.Login_form
+{
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    border: 0.5px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
+    padding: 40px 20px 250px 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    background-color: rgb(233, 245, 255) ;
+}
+.Login_toggle_text{
+    text-decoration: underline;
+    color: rgb(0, 0, 255);
+
+}
+.Login_form button{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(164, 193, 208) !important;
+}
