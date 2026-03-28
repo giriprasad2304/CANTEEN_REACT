@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.3.8",
-    "install": "^0.13.0",
-    "mongoose": "^9.3.1"
-  }
-}
