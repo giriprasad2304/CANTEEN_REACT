@@ -1,12 +1,12 @@
-import './App.css'
-import Login from'./pages/Login.jsx'
-function App() {
+import './App.css';
+import AuthContainer from './components/AuthContainer';
 
+function App() {
   return (
-    <>
-      <Login/>
-    </>
-  )
+    <div className="App">
+      <AuthContainer />
+    </div>
+  );
 }
 
-export default App
+export default App;
